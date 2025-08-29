@@ -23,14 +23,14 @@
     
     <!-- menú principal o The root menu. -->
     <RootMenu onroot="12">
-        <Include>~/.jwm-risenpc/appmenu</Include>
+        <Include>$HOME/.jwm-risenpc/appmenu</Include>
         <!-- <Include>$HOME/.cache/jwm-menu.cache</Include>  -->
         <!-- se podría incluir otro menu generado  -->
         <Separator/>
         <!-- He utilizado para el siguiente menú los de hicolor-icon-theme, gnome-icon-theme y human-icon-theme -->
         <!--  /usr/share/icons/gnome/16x16/  -->
 	<Menu label="Administradores de Archivos" icon="/usr/share/icons/gnome/16x16/places/folder_home.png" height="0">
-		<Program label="Dolphin4" icon="folder">dolphin4</Program>
+		<Program label="Dolphin" icon="folder">dolphin</Program>
 		<Program label="Caja" icon="/usr/share/icons/hicolor/16x16/apps/caja.png">caja</Program>
 		<Program label="PCmanFM" icon="system&#45;file&#45;manager">pcmanfm</Program>
 		<Program label="Nautilus" icon="/usr/share/icons/hicolor/16x16/apps/org.gnome.Nautilus.png">nautilus --no-desktop</Program>
@@ -82,7 +82,8 @@
             xfce4-appfinder
         </Program>
         <Separator/>
-        <Program icon="/usr/share/icons/gnome/16x16/actions/reload.png" label="Recargar Menu y JWM">bash $HOME/RisenPC-JWM/Script-GenerarMenu-y-ReiniciarJWM.sh</Program>
+        <Program icon="/usr/share/icons/gnome/16x16/actions/reload.png" label="Recargar Menu">bash $HOME/.jwm-risenpc/reload-root-menu.sh</Program>
+        <Program icon="/usr/share/icons/gnome/16x16/actions/reload.png" label="Recargar JWM">bash $HOME/.jwm-risenpc/reload-jwm.sh</Program>
 	<Menu label="Salir" icon="/usr/share/icons/gnome/16x16/actions/stop.png" height="0">
     <!-- Vi el comando de Reiniciar(Restart) y Poweroff(Apagar) en: "JWM - ArchWiki" -->
     <!-- https://wiki.archlinux.org/index.php/JWM -->
