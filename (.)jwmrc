@@ -16,7 +16,8 @@
         Proyecto Resucitar PC de bajos recursos con JWM -->
     
     <!-- Autoarranque de aplicaciones -->
-    <StartupCommand>bash $HOME/RisenPC-JWM/Script-StartUpApps.sh</StartupCommand>
+    <StartupCommand>bash ~/.jwm-risenpc/startup.sh</StartupCommand>
+    <!-- bash $HOME/RisenPC-JWM/Script-StartUpApps.sh -->
     <!-- El comando de autoarranque lo aprendí de (pero es una adaptación para este proyecto): -->
     <!-- http://forum.tinycorelinux.net/index.php?topic=218.0 -->
     
