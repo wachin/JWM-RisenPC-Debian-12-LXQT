@@ -281,7 +281,7 @@
     <Key key="k">up</Key>
     <Key key="l">right</Key>
     <Key key="Return">select</Key>
-    <Key key="Escape">escape</Key>
+<!--<Key key="Escape">escape</Key>-->
 
     <Key mask="A" key="Tab">nextstacked</Key>
     <Key mask="A" key="F4">close</Key>
