@@ -160,6 +160,9 @@ xfce4-notes &
 # (Se inicia minimizado en la barra de tareas como un icono)
 # Para tomar notas rapidas, imprescindible, 
 
+dolphin &
+# Exelente administrador de archivos
+
 #pcmanfm --desktop &
 # Este es necesario para cargar el wallpaper del escritorio
 # y los iconos de escritorio, pero si usted es como yo nunca usas nada
