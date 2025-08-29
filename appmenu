@@ -90,18 +90,13 @@
   <Program icon="/usr/share/icons/Papirus/16x16/categories/libreoffice-startcenter.svg" label="LibreOffice Start Center">libreoffice </Program>
   <Program icon="/usr/share/icons/Papirus/16x16/categories/libreoffice-writer.svg" label="LibreOffice Writer">libreoffice --writer </Program>
   <Program icon="/usr/share/icons/hicolor/scalable/apps/pdfsam.svg" label="PDFsam Basic">pdfsam </Program>
-  <Program icon="/usr/share/icons/hicolor/48x48/apps/wps-office-wppmain.png" label="WPS Presentation">/usr/bin/wpp </Program>
-  <Program icon="/usr/share/icons/hicolor/48x48/apps/wps-office-etmain.png" label="WPS Spreadsheets">/usr/bin/et </Program>
-  <Program icon="/usr/share/icons/hicolor/48x48/apps/wps-office-wpsmain.png" label="WPS Writer">/usr/bin/wps </Program>
   <Program icon="/usr/share/icons/Papirus/16x16/categories/ghostwriter.svg" label="ghostwriter">ghostwriter </Program>
   <Program icon="/usr/share/icons/Papirus/16x16/categories/qpdfview.svg" label="qpdfview">qpdfview --unique </Program>
 </Menu>
 <Menu icon="/usr/share/icons/Papirus/16x16/categories/applications-internet.svg" label="Red">
   <Program icon="/usr/share/icons/Papirus/16x16/categories/kdeconnect.svg" label="Abrir en dispositivo conectado a través de KDE Connect">kdeconnect-handler --open </Program>
-  <Program icon="/usr/share/icons/Papirus/16x16/categories/httrack.svg" label="Browse Mirrored Websites">webhttrack browse</Program>
   <Program icon="/usr/share/icons/Papirus/16x16/categories/thunderbird.svg" label="Cliente de correo Thunderbird">/usr/bin/thunderbird </Program>
   <Program icon="/usr/share/icons/Papirus/16x16/categories/firefox-esr.svg" label="Firefox ESR">/usr/lib/firefox-esr/firefox-esr </Program>
-  <Program icon="/usr/share/icons/hicolor/32x32/apps/httraqt.png" label="HTTraQt">httraqt</Program>
   <Program icon="/usr/share/icons/Papirus/16x16/categories/quassel.svg" label="IRC Quassel">quassel</Program>
   <Program icon="/usr/share/icons/Papirus/16x16/categories/kdeconnect.svg" label="Indicador de KDE Connect">kdeconnect-indicator</Program>
   <Program icon="/home/wachin/AppsLinux/jd2/.install4j/JDownloader2.png" label="JDownloader 2">"/home/wachin/AppsLinux/jd2/JDownloader2" </Program>
@@ -110,7 +105,6 @@
   <Program icon="/usr/share/icons/Papirus/16x16/panel/weather-few-clouds.svg" label="Meteo-qt">meteo-qt</Program>
   <Program icon="/usr/share/icons/Papirus/16x16/categories/chromium.svg" label="Navegador web Chromium">/usr/bin/chromium </Program>
   <Program icon="/usr/share/icons/Papirus/16x16/categories/kdeconnect.svg" label="SMS de KDE Connect">kdeconnect-sms</Program>
-  <Program icon="/usr/share/icons/Papirus/16x16/categories/httrack.svg" label="WebHTTrack Website Copier">webhttrack</Program>
   <Program label="eric7 Web Browser">/usr/bin/eric7_browser </Program>
   <Program icon="/usr/share/icons/Papirus/16x16/categories/qbittorrent.svg" label="qBittorrent (Enhanced Edition)">qbittorrent </Program>
 </Menu>
@@ -120,6 +114,7 @@
   <Program icon="/usr/share/icons/Papirus/16x16/categories/utilities-system-monitor.svg" label="Gestor de tareas">lxtask</Program>
   <Program icon="/usr/share/icons/Papirus/16x16/categories/grsync.svg" label="Grsync">/usr/bin/grsync -i </Program>
   <Program icon="/usr/share/icons/Papirus/16x16/categories/grub-customizer.svg" label="Grub Customizer">grub-customizer</Program>
+  <Program icon="/usr/share/icons/hicolor/scalable/apps/hardinfo2.svg" label="Hardinfo2">hardinfo2</Program>
   <Program icon="/usr/share/icons/hicolor/scalable/apps/deb-installer.svg" label="Instalador de Deb">deb-installer </Program>
   <Program icon="/usr/share/icons/Papirus/16x16/categories/utilities-terminal.svg" label="Konsole">konsole</Program>
   <Program icon="/usr/share/icons/Papirus/16x16/categories/mx-repo-manager.svg" label="MX Gestionar Repos">mx-repo-manager</Program>
