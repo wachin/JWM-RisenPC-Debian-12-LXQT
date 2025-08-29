@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<JWM>
+<Menu icon="/usr/share/icons/Papirus/16x16/categories/applications-accessories.svg" label="Accesorios">
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/ark.svg" label="Ark">ark </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/org.xfce.appfinder.svg" label="Buscador de aplicaciones">xfce4-appfinder</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/org.xfce.catfish.svg" label="Búsqueda de archivos Catfish">catfish </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/feathernotes.svg" label="FeatherNotes">feathernotes </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/featherpad.svg" label="FeatherPad">featherpad </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/engrampa.svg" label="Gestor de archivadores Engrampa">engrampa </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/system-file-manager.svg" label="Gestor de archivos PCManFM-Qt">pcmanfm-qt </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/debian-reference.svg" label="Guía de referencia Debian">debian-reference</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/kwrite.svg" label="KWrite">kwrite </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/kate.svg" label="Kate">kate -b </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/kvantum.svg" label="Kvantum Manager">kvantummanager</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/accessories-character-map.svg" label="Mapa de caracteres">gucharmap</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/qlipper.svg" label="Qlipper">qlipper</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/searchmonkey.svg" label="Searchmonkey">searchmonkey</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/vnote.svg" label="VNote">vnote </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/gvim.svg" label="Vim">/usr/bin/x-terminal-emulator -e vim </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/xarchiver.svg" label="Xarchiver">xarchiver </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/org.gnome.gedit.svg" label="gedit">gedit </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/ksnip.svg" label="ksnip">ksnip</Program>
+  <Program icon="/usr/share/pixmaps/luckybackup.png" label="luckyBackup">/usr/bin/luckybackup</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/nitrogen.svg" label="nitrogen">nitrogen</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/picom.svg" label="picom">picom</Program>
+</Menu>
+<Menu icon="/usr/share/icons/Papirus/16x16/categories/preferences-desktop.svg" label="Configuración">
+  <Program icon="/usr/share/icons/Papirus/16x16/devices/display.svg" label="ARandR">arandr</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/tint2conf.svg" label="Administrador de panel">tint2conf</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/preferences-desktop-theme.svg" label="Ajustes QT5">qt5ct</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/kdeconnect.svg" label="Ajustes de KDE Connect">kdeconnect-settings</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/devices/video-display.svg" label="Ajustes del monitor">lxrandr</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/devices/printer.svg" label="Configuración de impresión">system-config-printer</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/preferences-system-network.svg" label="Configuración de la interfaz de usuario de Connman">cmst</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/preferences-system-network.svg" label="Configuración de red avanzada">nm-connection-editor</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/galternatives.svg" label="Configurador de alternativas">/usr/bin/galternatives</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/places/user-desktop.svg" label="Escritorio">pcmanfm-qt --desktop-pref=general</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/obconf.svg" label="Gestor de configuración de Openbox">obconf </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/preferences-desktop-theme.svg" label="Personalizar apariencia y comportamiento">lxappearance</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/preferences-system.svg" label="Preferencias del sistema de KDE">systemsettings5</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/xscreensaver.svg" label="XScreenSaver Settings">xscreensaver-settings</Program>
+</Menu>
+<Menu icon="/usr/share/icons/Papirus/16x16/categories/applications-development.svg" label="Desarrollo">
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/sqlitebrowser.svg" label="DB Browser for SQLite">sqlitebrowser </Program>
+  <Program icon="/usr/share/pixmaps/idle.xpm" label="IDLE">/usr/bin/idle </Program>
+  <Program icon="/usr/share/pixmaps/python3.11.xpm" label="IDLE (using Python-3.11)">/usr/bin/idle-python3.11</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/kapptemplate.svg" label="KAppTemplate">kapptemplate</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/kdevelop.svg" label="KDevelop">kdevelop</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/kdevelop.svg" label="KDevelop (escoger sesión)">kdevelop --ps</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/org.gnome.Meld.svg" label="Meld">meld </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/pyzologo.svg" label="Pyzo">pyzo </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/assistant-qt5.svg" label="Qt 5 Assistant">/usr/lib/qt5/bin/assistant</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/designer-qt5.svg" label="Qt 5 Designer">/usr/lib/qt5/bin/designer </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/linguist-qt5.svg" label="Qt 5 Linguist">/usr/lib/qt5/bin/linguist </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/QtProject-qtcreator.svg" label="Qt Creator">qtcreator </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/eric.svg" label="eric7 IDE">/usr/bin/eric7_ide </Program>
+</Menu>
+<Menu icon="/usr/share/icons/Papirus/16x16/categories/applications-education.svg" label="Educación">
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/info.bibletime.BibleTime.svg" label="BibleTime 3.0.3">bibletime</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/xiphos.svg" label="Guía Bíblica Xiphos">xiphos</Program>
+</Menu>
+<Menu icon="/usr/share/icons/Papirus/16x16/categories/applications-graphics.svg" label="Gráficos">
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/gpick.svg" label="Gpick">gpick </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/display-im6.q16.svg" label="ImageMagick (color depth=q16)">/usr/bin/display-im6.q16 -nostdin </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/org.inkscape.Inkscape.svg" label="Inkscape">inkscape </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/lximage-qt.svg" label="LXImage">lximage-qt </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/okular.svg" label="Okular">okular </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/gimp.svg" label="Programa de manipulación de imágenes de GNU">gimp-2.10 </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/screengrab.svg" label="ScreenGrab">screengrab</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/xsane.svg" label="XSane">xsane</Program>
+</Menu>
+<Menu icon="/usr/share/icons/Papirus/16x16/categories/applications-multimedia.svg" label="Multimedia">
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/audacious.svg" label="Audacious">audacious </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/brasero.svg" label="Brasero">brasero </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/multimedia-volume-control.svg" label="Control de volumen de PulseAudio">pavucontrol-qt</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/ffmulticonverter.svg" label="FF Multi Converter">ffmulticonverter</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/vlc.svg" label="Reproductor multimedia VLC">/usr/bin/vlc --started-from-file </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/smplayer.svg" label="SMPlayer">smplayer </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/smtube.svg" label="SMTube">smtube</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/simplescreenrecorder.svg" label="SimpleScreenRecorder">simplescreenrecorder --logfile</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/mpv.svg" label="mpv Media Player">mpv --player-operation-mode=pseudo-gui -- </Program>
+  <Program label="wxChordPro">wxchordpro</Program>
+</Menu>
+<Menu icon="/usr/share/icons/Papirus/16x16/categories/applications-office.svg" label="Oficina">
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/libreoffice-base.svg" label="LibreOffice Base">libreoffice --base </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/libreoffice-calc.svg" label="LibreOffice Calc">libreoffice --calc </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/libreoffice-draw.svg" label="LibreOffice Draw">libreoffice --draw </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/libreoffice-impress.svg" label="LibreOffice Impress">libreoffice --impress </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/libreoffice-math.svg" label="LibreOffice Math">libreoffice --math </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/libreoffice-startcenter.svg" label="LibreOffice Start Center">libreoffice </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/libreoffice-writer.svg" label="LibreOffice Writer">libreoffice --writer </Program>
+  <Program icon="/usr/share/icons/hicolor/scalable/apps/pdfsam.svg" label="PDFsam Basic">pdfsam </Program>
+  <Program icon="/usr/share/icons/hicolor/48x48/apps/wps-office-wppmain.png" label="WPS Presentation">/usr/bin/wpp </Program>
+  <Program icon="/usr/share/icons/hicolor/48x48/apps/wps-office-etmain.png" label="WPS Spreadsheets">/usr/bin/et </Program>
+  <Program icon="/usr/share/icons/hicolor/48x48/apps/wps-office-wpsmain.png" label="WPS Writer">/usr/bin/wps </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/ghostwriter.svg" label="ghostwriter">ghostwriter </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/qpdfview.svg" label="qpdfview">qpdfview --unique </Program>
+</Menu>
+<Menu icon="/usr/share/icons/Papirus/16x16/categories/applications-internet.svg" label="Red">
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/kdeconnect.svg" label="Abrir en dispositivo conectado a través de KDE Connect">kdeconnect-handler --open </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/httrack.svg" label="Browse Mirrored Websites">webhttrack browse</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/thunderbird.svg" label="Cliente de correo Thunderbird">/usr/bin/thunderbird </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/firefox-esr.svg" label="Firefox ESR">/usr/lib/firefox-esr/firefox-esr </Program>
+  <Program icon="/usr/share/icons/hicolor/32x32/apps/httraqt.png" label="HTTraQt">httraqt</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/quassel.svg" label="IRC Quassel">quassel</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/kdeconnect.svg" label="Indicador de KDE Connect">kdeconnect-indicator</Program>
+  <Program icon="/home/wachin/AppsLinux/jd2/.install4j/JDownloader2.png" label="JDownloader 2">"/home/wachin/AppsLinux/jd2/JDownloader2" </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/kdeconnect.svg" label="KDE Connect">kdeconnect-app</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/konqueror.svg" label="Konqueror">konqueror</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/panel/weather-few-clouds.svg" label="Meteo-qt">meteo-qt</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/chromium.svg" label="Navegador web Chromium">/usr/bin/chromium </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/kdeconnect.svg" label="SMS de KDE Connect">kdeconnect-sms</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/httrack.svg" label="WebHTTrack Website Copier">webhttrack</Program>
+  <Program label="eric7 Web Browser">/usr/bin/eric7_browser </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/qbittorrent.svg" label="qBittorrent (Enhanced Edition)">qbittorrent </Program>
+</Menu>
+<Menu icon="/usr/share/icons/Papirus/16x16/categories/applications-system.svg" label="Sistema">
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/system-file-manager.svg" label="Dolphin">dolphin </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/synaptic.svg" label="Gestor de paquetes Synaptic">synaptic-pkexec</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/utilities-system-monitor.svg" label="Gestor de tareas">lxtask</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/grsync.svg" label="Grsync">/usr/bin/grsync -i </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/grub-customizer.svg" label="Grub Customizer">grub-customizer</Program>
+  <Program icon="/usr/share/icons/hicolor/scalable/apps/deb-installer.svg" label="Instalador de Deb">deb-installer </Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/utilities-terminal.svg" label="Konsole">konsole</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/mx-repo-manager.svg" label="MX Gestionar Repos">mx-repo-manager</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/mx-packageinstaller.svg" label="MX Instalar Paquetes">mx-packageinstaller</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/utilities-terminal.svg" label="QTerminal">qterminal</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/utilities-terminal.svg" label="QTerminal desplegable">qterminal --drop</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/tint2.svg" label="Tint2">tint2</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/mini.xterm.svg" label="UXTerm">uxterm</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/mini.xterm.svg" label="XTerm">xterm</Program>
+  <Program icon="/usr/share/pixmaps/luckybackup.png" label="luckyBackup (súper usuario)">/usr/bin/luckybackup-pkexec</Program>
+  <Program icon="/usr/share/icons/Papirus/16x16/categories/qps.svg" label="qps">qps</Program>
+  <Program label="xvkbd">xvkbd</Program>
+</Menu>
+</JWM>
