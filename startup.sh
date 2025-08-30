@@ -265,7 +265,7 @@ konsole &
 # alarm-clock-applet --help
 # allí hay varios comandos
 
-ksnip
+ksnip &
 
 #sleep 7; shutter --min_at_startup &
 # Para tomar captura de pantallas, este es el comando para que se
