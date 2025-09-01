@@ -275,6 +275,12 @@ ksnip &
 # lo desactivo porque este programas está teniendo inconvenientes
 # si se inicia desde el inicio
 
+vnote &
+# Editor de markdown
+
+kate &
+# Editor de texto
+
 # Dios les bendiga
 
 
